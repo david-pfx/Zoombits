@@ -60,6 +60,7 @@
     <None Include="res\ZoomBits.rc2">
       <Filter>Resource Files</Filter>
     </None>
+    <None Include="README.md" />
   </ItemGroup>
   <ItemGroup>
     <Image Include="res\Toolbar.bmp">
@@ -71,8 +72,5 @@
     <Image Include="res\ZoomBitsDoc.ico">
       <Filter>Resource Files</Filter>
     </Image>
-  </ItemGroup>
-  <ItemGroup>
-    <Text Include="ReadMe.txt" />
   </ItemGroup>
 </Project>

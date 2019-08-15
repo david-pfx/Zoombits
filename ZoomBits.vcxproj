@@ -157,6 +157,7 @@
     <ClInclude Include="ZoomBits.h" />
   </ItemGroup>
   <ItemGroup>
+    <None Include="README.md" />
     <None Include="res\cursor_h.cur" />
     <None Include="res\cursor_target.cur" />
     <None Include="res\ZoomBits.rc2" />
@@ -165,9 +166,6 @@
     <Image Include="res\Toolbar.bmp" />
     <Image Include="res\ZoomBits.ico" />
     <Image Include="res\ZoomBitsDoc.ico" />
-  </ItemGroup>
-  <ItemGroup>
-    <Text Include="ReadMe.txt" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
